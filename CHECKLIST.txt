@@ -1,0 +1,14 @@
+GitHub Introduction Assignment Checklist
+
+[ ] GitHub account created
+[ ] Repository created with correct name
+[ ] Starter files uploaded
+[ ] Assets folder created
+[ ] At least 2 images uploaded
+[ ] At least 1 text document uploaded
+[ ] First commit completed with clear message
+[ ] File updated or replaced
+[ ] Second commit completed
+[ ] GitHub Pages enabled
+[ ] Live URL works
+[ ] Reflection completed

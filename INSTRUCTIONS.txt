@@ -1,0 +1,17 @@
+GitHub Introduction Assignment Instructions
+
+You are NOT expected to code.
+This assignment focuses on:
+- File organization
+- Version tracking
+- Publishing workflow
+
+Steps:
+1. Create a new GitHub repository
+2. Upload all starter files
+3. Add images and text files to the assets folder
+4. Make commits as you add or update files
+5. Enable GitHub Pages
+6. Submit your repository link and live site URL
+
+Ask questions early. Mistakes are expected.
